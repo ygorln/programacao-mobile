@@ -1,0 +1,14 @@
+DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS
+RESUMO AULA 12/05/2023
+
+- Sempre cadastrar as atividades no androidManifest.
+- Padrão de nome para colocar no resource seria o título da tela.
+- Mudar de cor no btn seria no backgroundtint.
+- Quando aparecer a linha em amarelo, Alt+Enter para visualizar o erro que está ocorrendo.
+- Data binding é necessário para algumas bibliotecas.
+- Configurar Databinding: Habilitar o databinding no gradle, modificar os arquivos de layout, substituir a chamada so SetContentView(). Fazer isso no BiuldGrade.
+- Databinding é uma técnica geral que une duas fontes de dados/informações e as mantém em sincronia em um processo que estabelece uma conexão entre UI de aplicação e uma lógica de negócio.
+- Lateint para variável nunca ser nula.
+- Componente setOnClickListener() para tratamento de eventos, os eventos são disparados pelos componentes após a interação do user.
+- via função lambda: Para eventos e não precisam ser reaproveitados.
+- via método: Pata eventos curtos e podem ser reaproveitados. 
